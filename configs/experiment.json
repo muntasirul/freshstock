@@ -1,0 +1,12 @@
+{
+  "store": "CA_1",
+  "products": 20,
+  "validation_days": 168,
+  "test_days": 168,
+  "horizon": 2,
+  "quantile": 0.8,
+  "seed": 42,
+  "iterations": 250,
+  "shelf_life": 7,
+  "lead_time": 2
+}
